@@ -1,0 +1,22 @@
+
+#hg-size{
+    font-size: 20px;
+}
+canvas{
+    border:10px solid black;
+    border-radius: 3px;
+    margin-top: 1%;
+    margin-left: 31%;
+}
+
+canvas:hover {
+    border-radius: 23px;
+    border-color: black;
+    transition: 3s;
+}
+
+body {
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
